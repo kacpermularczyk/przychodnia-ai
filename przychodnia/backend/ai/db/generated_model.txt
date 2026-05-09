@@ -1,0 +1,31 @@
+
+from django.db import models
+
+class DiagnosisModel(models.Model):
+    bol_przy_nagryzaniu = models.BooleanField(default=0)
+    bol_na_zimno = models.BooleanField(default=0)
+    obrzek_policzka = models.BooleanField(default=0)
+    wysoka_temperatura = models.BooleanField(default=0)
+    zab_sie_rusza = models.BooleanField(default=0)
+    zab_zciemnial = models.BooleanField(default=0)
+    reakcja_na_slodkie = models.BooleanField(default=0)
+    bol_samoistny = models.BooleanField(default=0)
+    silny_bol_podczas_picia_goracych_napojow = models.BooleanField(default=0)
+    bol_dziasla = models.BooleanField(default=0)
+    nadwrazliwy_zab = models.BooleanField(default=0)
+    bol_na_slodkie = models.BooleanField(default=0)
+    reakcja_na_zimno = models.BooleanField(default=0)
+    bol_na_cieplo = models.BooleanField(default=0)
+    bol_zeba_od_kilku_dni = models.BooleanField(default=0)
+    krwawienie_z_dziasel = models.BooleanField(default=0)
+    silne_bole_samoistne_ktore_lagodzi_zimny_napoj = models.BooleanField(default=0)
+    reakcja_na_cieplo = models.BooleanField(default=0)
+    brzydki_zapach_z_ust = models.BooleanField(default=0)
+    krwawienie_z_dziasel_przy_myciu_zebow = models.BooleanField(default=0)
+    wrazliwosc_na_zimno = models.BooleanField(default=0)
+
+    predicted_diagnosis = models.CharField(max_length=255)
+    is_new = models.BooleanField(default=0)
+
+    def __str__(self):
+        return f"{self.predicted_diagnosis} (New: {{self.is_new}})"

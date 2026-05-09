@@ -1,0 +1,9 @@
+Django
+djangorestframework
+django-cors-headers
+django-rest-knox
+scikit-learn
+joblib
+pandas
+numpy
+tensorflow

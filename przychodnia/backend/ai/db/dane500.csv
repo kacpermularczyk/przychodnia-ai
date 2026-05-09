@@ -1,0 +1,581 @@
+bol przy nagryzaniu,bol na zimno,obrzek policzka,wysoka temperatura,zab sie rusza,zab zciemnial,reakcja na slodkie,bol samoistny,silny bol podczas picia goracych napojow,bol dziasla,nadwrazliwy zab,bol na slodkie,reakcja na zimno,bol na cieplo,bol zeba od kilku dni,krwawienie z dziasel,silne bole samoistne ktore lagodzi zimny napoj,reakcja na cieplo,brzydki zapach z ust,krwawienie z dziasel przy myciu zebow,wrazliwosc na zimno,diagnoza
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,paradontoza
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,odwracalne zapalenie miazgi zeba
+0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,paradontoza
+0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,prochnica srednia
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ropien podsluzowkowy
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,nieodwracalne zapalenie miazgi zeba
+0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,martwica miazgi
+1,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,ropien okolowierzcholkowy
+0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,zgorzel miazgi
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica srednia
+0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,zgorzel miazgi
+0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,prochnica srednia
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,zgorzel miazgi
+1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,prochnica gleboka
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,martwica miazgi
+0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,prochnica srednia
+0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,prochnica gleboka
+0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0,ropien okolowierzcholkowy
+0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,prochnica srednia
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,martwica miazgi
+0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,zgorzel miazgi
+0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,prochnica srednia
+0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ropien podsluzowkowy
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,ropien okolowierzcholkowy
+1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,ropien okolowierzcholkowy
+0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,paradontoza
+0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,zgorzel miazgi
+0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,prochnica srednia
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,prochnica gleboka
+1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,paradontoza
+1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,zgorzel miazgi
+0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,paradontoza
+0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,zgorzel miazgi
+0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,ropien okolowierzcholkowy
+0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,prochnica srednia
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,zgorzel miazgi
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,prochnica gleboka
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica powierzchniowa
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,ropien okolowierzcholkowy
+0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,zgorzel miazgi
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,zgorzel miazgi
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,odwracalne zapalenie miazgi zeba
+0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,zgorzel miazgi
+0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,prochnica gleboka
+0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ropien okolowierzcholkowy
+1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,paradontoza
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,prochnica srednia
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,prochnica powierzchniowa
+1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,prochnica gleboka
+1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,ropien okolowierzcholkowy
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica srednia
+0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,paradontoza
+0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,prochnica srednia
+0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,1,prochnica srednia
+0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ropien podsluzowkowy
+0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,prochnica srednia
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,zgorzel miazgi
+0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,prochnica gleboka
+1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,paradontoza
+0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,prochnica gleboka
+0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,prochnica srednia
+1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,prochnica gleboka
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,prochnica powierzchniowa
+1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,prochnica gleboka
+0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,paradontoza
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,prochnica gleboka
+0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,martwica miazgi
+1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,zgorzel miazgi
+0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,prochnica srednia
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,zgorzel miazgi
+0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,paradontoza
+0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,zgorzel miazgi
+0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,paradontoza
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,odwracalne zapalenie miazgi zeba
+1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,zgorzel miazgi
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,zgorzel miazgi
+0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,zgorzel miazgi
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,odwracalne zapalenie miazgi zeba
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,odwracalne zapalenie miazgi zeba
+0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,paradontoza
+0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,odwracalne zapalenie miazgi zeba
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,martwica miazgi
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,nieodwracalne zapalenie miazgi zeba
+0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,ropien okolowierzcholkowy
+0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,prochnica srednia
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica powierzchniowa
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,paradontoza
+0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,nieodwracalne zapalenie miazgi zeba
+0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,prochnica srednia
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,nieodwracalne zapalenie miazgi zeba
+0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,paradontoza
+0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,prochnica srednia
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,odwracalne zapalenie miazgi zeba
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,martwica miazgi
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,prochnica srednia
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,nieodwracalne zapalenie miazgi zeba
+0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,paradontoza
+0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,prochnica gleboka
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,odwracalne zapalenie miazgi zeba
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,nieodwracalne zapalenie miazgi zeba
+0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,ropien podsluzowkowy
+1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,ropien okolowierzcholkowy
+1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,prochnica gleboka
+1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,zgorzel miazgi
+0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,prochnica powierzchniowa
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,martwica miazgi
+0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,ropien okolowierzcholkowy
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,paradontoza
+0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,paradontoza
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ropien podsluzowkowy
+1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,ropien okolowierzcholkowy
+0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,zgorzel miazgi
+0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,zgorzel miazgi
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica srednia
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,odwracalne zapalenie miazgi zeba
+0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,prochnica srednia
+1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,paradontoza
+0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,zgorzel miazgi
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,martwica miazgi
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica powierzchniowa
+1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,zgorzel miazgi
+0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,prochnica gleboka
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,odwracalne zapalenie miazgi zeba
+1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,paradontoza
+0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica powierzchniowa
+0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,paradontoza
+0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,prochnica srednia
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,prochnica srednia
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,nieodwracalne zapalenie miazgi zeba
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,prochnica gleboka
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,prochnica srednia
+0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ropien podsluzowkowy
+1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,1,paradontoza
+0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,prochnica gleboka
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica srednia
+0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,prochnica gleboka
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica powierzchniowa
+1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,prochnica gleboka
+0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,prochnica gleboka
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,zgorzel miazgi
+0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,paradontoza
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,nieodwracalne zapalenie miazgi zeba
+0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ropien podsluzowkowy
+0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,zgorzel miazgi
+1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,zgorzel miazgi
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,odwracalne zapalenie miazgi zeba
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,prochnica gleboka
+0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,paradontoza
+1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,1,paradontoza
+0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ropien podsluzowkowy
+1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,paradontoza
+1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,ropien okolowierzcholkowy
+0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,paradontoza
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica srednia
+0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,ropien podsluzowkowy
+1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,ropien okolowierzcholkowy
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,nieodwracalne zapalenie miazgi zeba
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,nieodwracalne zapalenie miazgi zeba
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,paradontoza
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,zgorzel miazgi
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,nieodwracalne zapalenie miazgi zeba
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,nieodwracalne zapalenie miazgi zeba
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica powierzchniowa
+1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,zgorzel miazgi
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica srednia
+0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,prochnica srednia
+1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,zgorzel miazgi
+0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,ropien okolowierzcholkowy
+0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,0,paradontoza
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica powierzchniowa
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,paradontoza
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,nieodwracalne zapalenie miazgi zeba
+0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,ropien podsluzowkowy
+0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica srednia
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica powierzchniowa
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,prochnica powierzchniowa
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica srednia
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica srednia
+0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,ropien okolowierzcholkowy
+0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,1,0,paradontoza
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,prochnica gleboka
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,prochnica gleboka
+0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,ropien okolowierzcholkowy
+1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,zgorzel miazgi
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,nieodwracalne zapalenie miazgi zeba
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica powierzchniowa
+0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,prochnica gleboka
+0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,prochnica srednia
+1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,ropien okolowierzcholkowy
+0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,zgorzel miazgi
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica srednia
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,odwracalne zapalenie miazgi zeba
+0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,zgorzel miazgi
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica srednia
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,odwracalne zapalenie miazgi zeba
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,martwica miazgi
+0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,paradontoza
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,zgorzel miazgi
+0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,zgorzel miazgi
+1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,paradontoza
+0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,prochnica srednia
+1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,ropien okolowierzcholkowy
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,zgorzel miazgi
+0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,prochnica gleboka
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,ropien okolowierzcholkowy
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,zgorzel miazgi
+1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,zgorzel miazgi
+0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,paradontoza
+0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,nieodwracalne zapalenie miazgi zeba
+1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,ropien okolowierzcholkowy
+0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,martwica miazgi
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,zgorzel miazgi
+0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,paradontoza
+0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ropien podsluzowkowy
+0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,paradontoza
+0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,prochnica srednia
+0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,martwica miazgi
+0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ropien podsluzowkowy
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,nieodwracalne zapalenie miazgi zeba
+0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,prochnica srednia
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,odwracalne zapalenie miazgi zeba
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,prochnica powierzchniowa
+0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,zgorzel miazgi
+1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,prochnica gleboka
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,odwracalne zapalenie miazgi zeba
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica powierzchniowa
+0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,prochnica srednia
+1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,prochnica gleboka
+0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0,paradontoza
+0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,zgorzel miazgi
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,zgorzel miazgi
+0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,paradontoza
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,zgorzel miazgi
+0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,prochnica srednia
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,paradontoza
+1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,zgorzel miazgi
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,martwica miazgi
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica srednia
+1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,prochnica gleboka
+0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,zgorzel miazgi
+1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,paradontoza
+0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,nieodwracalne zapalenie miazgi zeba
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,ropien okolowierzcholkowy
+0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,prochnica srednia
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,martwica miazgi
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,zgorzel miazgi
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,prochnica powierzchniowa
+0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,paradontoza
+0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,ropien podsluzowkowy
+0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,paradontoza
+0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,zgorzel miazgi
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,zgorzel miazgi
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica powierzchniowa
+0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,prochnica gleboka
+1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,prochnica gleboka
+0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,zgorzel miazgi
+1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,ropien okolowierzcholkowy
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,prochnica gleboka
+0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,zgorzel miazgi
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,nieodwracalne zapalenie miazgi zeba
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,prochnica srednia
+0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ropien podsluzowkowy
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,odwracalne zapalenie miazgi zeba
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,prochnica srednia
+0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,paradontoza
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,nieodwracalne zapalenie miazgi zeba
+1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,zgorzel miazgi
+0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,ropien podsluzowkowy
+0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,paradontoza
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,paradontoza
+0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,zgorzel miazgi
+0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,prochnica srednia
+1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,paradontoza
+1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,prochnica gleboka
+1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,prochnica gleboka
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,paradontoza
+0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,paradontoza
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,prochnica srednia
+1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,prochnica gleboka
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica powierzchniowa
+0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,ropien okolowierzcholkowy
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,ropien okolowierzcholkowy
+0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,paradontoza
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,martwica miazgi
+0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ropien podsluzowkowy
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica powierzchniowa
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,ropien podsluzowkowy
+0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,prochnica srednia
+0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,zgorzel miazgi
+0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,paradontoza
+0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ropien podsluzowkowy
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,prochnica powierzchniowa
+1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,prochnica gleboka
+0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica srednia
+0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,zgorzel miazgi
+1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,ropien okolowierzcholkowy
+1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ropien podsluzowkowy
+0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,ropien okolowierzcholkowy
+0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,prochnica srednia
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica srednia
+1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,paradontoza
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,odwracalne zapalenie miazgi zeba
+0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,ropien podsluzowkowy
+0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0,paradontoza
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,odwracalne zapalenie miazgi zeba
+1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,zgorzel miazgi
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ropien podsluzowkowy
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,zgorzel miazgi
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,ropien okolowierzcholkowy
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ropien podsluzowkowy
+0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,nieodwracalne zapalenie miazgi zeba
+1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,prochnica gleboka
+0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica srednia
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica powierzchniowa
+0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,prochnica srednia
+1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,ropien okolowierzcholkowy
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,prochnica srednia
+0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,zgorzel miazgi
+0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,prochnica srednia
+0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,prochnica srednia
+1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,prochnica gleboka
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,prochnica srednia
+0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ropien podsluzowkowy
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,prochnica gleboka
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,paradontoza
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,martwica miazgi
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,odwracalne zapalenie miazgi zeba
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,prochnica gleboka
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,prochnica srednia
+0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,paradontoza
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,nieodwracalne zapalenie miazgi zeba
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,zgorzel miazgi
+0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ropien podsluzowkowy
+0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ropien podsluzowkowy
+1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,paradontoza
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,prochnica gleboka
+0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,zgorzel miazgi
+0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ropien podsluzowkowy
+0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,ropien okolowierzcholkowy
+0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,prochnica srednia
+0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ropien podsluzowkowy
+0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,nieodwracalne zapalenie miazgi zeba
+0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,prochnica gleboka
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,paradontoza
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica powierzchniowa
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica powierzchniowa
+0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,odwracalne zapalenie miazgi zeba
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,ropien okolowierzcholkowy
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,odwracalne zapalenie miazgi zeba
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,martwica miazgi
+0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ropien podsluzowkowy
+1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,zgorzel miazgi
+0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,prochnica srednia
+0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,zgorzel miazgi
+0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,ropien okolowierzcholkowy
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica srednia
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,odwracalne zapalenie miazgi zeba
+0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,nieodwracalne zapalenie miazgi zeba
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,martwica miazgi
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,prochnica gleboka
+1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,ropien okolowierzcholkowy
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,prochnica srednia
+1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,zgorzel miazgi
+0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,prochnica powierzchniowa
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica powierzchniowa
+0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,paradontoza
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,prochnica srednia
+1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,prochnica gleboka
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,martwica miazgi
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,martwica miazgi
+0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ropien podsluzowkowy
+0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,zgorzel miazgi
+1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,prochnica srednia
+0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,prochnica srednia
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ropien podsluzowkowy
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,prochnica gleboka
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,martwica miazgi
+0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,ropien okolowierzcholkowy
+1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,ropien okolowierzcholkowy
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,odwracalne zapalenie miazgi zeba
+1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,zgorzel miazgi
+0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,paradontoza
+0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,odwracalne zapalenie miazgi zeba
+1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,ropien okolowierzcholkowy
+0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,zgorzel miazgi
+0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,prochnica srednia
+1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,ropien okolowierzcholkowy
+0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,prochnica srednia
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,paradontoza
+0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,prochnica srednia
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,zgorzel miazgi
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,nieodwracalne zapalenie miazgi zeba
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,martwica miazgi
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,ropien okolowierzcholkowy
+1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,zgorzel miazgi
+1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,prochnica gleboka
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ropien podsluzowkowy
+0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,prochnica gleboka
+1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,prochnica gleboka
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica powierzchniowa
+0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,0,0,0,zgorzel miazgi
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ropien okolowierzcholkowy
+1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,prochnica gleboka
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,prochnica gleboka
+0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,zgorzel miazgi
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,ropien okolowierzcholkowy
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,zgorzel miazgi
+0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,paradontoza
+0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ropien podsluzowkowy
+0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,paradontoza
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,nieodwracalne zapalenie miazgi zeba
+0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,zgorzel miazgi
+1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,zgorzel miazgi
+1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,prochnica gleboka
+0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,prochnica powierzchniowa
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,martwica miazgi
+0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,paradontoza
+1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,paradontoza
+1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,prochnica gleboka
+1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,prochnica gleboka
+1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,ropien okolowierzcholkowy
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,nieodwracalne zapalenie miazgi zeba
+0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,prochnica srednia
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica powierzchniowa
+1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,paradontoza
+0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,prochnica srednia
+0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,prochnica srednia
+0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,prochnica srednia
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,odwracalne zapalenie miazgi zeba
+0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,prochnica srednia
+0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,odwracalne zapalenie miazgi zeba
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,prochnica gleboka
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica powierzchniowa
+0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,ropien okolowierzcholkowy
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,paradontoza
+0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,prochnica srednia
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,martwica miazgi
+0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0,paradontoza
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,martwica miazgi
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica powierzchniowa
+0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,prochnica powierzchniowa
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,paradontoza
+1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,prochnica srednia
+1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,prochnica gleboka
+1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,ropien okolowierzcholkowy
+0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,zgorzel miazgi
+0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,zgorzel miazgi
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,prochnica gleboka
+0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,prochnica srednia
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,odwracalne zapalenie miazgi zeba
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,nieodwracalne zapalenie miazgi zeba
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,prochnica powierzchniowa
+0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,odwracalne zapalenie miazgi zeba
+0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,prochnica gleboka
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,ropien okolowierzcholkowy
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,martwica miazgi
+1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,prochnica gleboka
+0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,ropien okolowierzcholkowy
+0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,zgorzel miazgi
+1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,zgorzel miazgi
+0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,prochnica gleboka
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,ropien okolowierzcholkowy
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,martwica miazgi
+1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,ropien okolowierzcholkowy
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica powierzchniowa
+0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,prochnica srednia
+0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,prochnica srednia
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,martwica miazgi
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,prochnica gleboka
+1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,zgorzel miazgi
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,nieodwracalne zapalenie miazgi zeba
+0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,prochnica srednia
+1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,paradontoza
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,martwica miazgi
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,prochnica gleboka
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ropien podsluzowkowy
+0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica srednia
+0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,prochnica gleboka
+1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,zgorzel miazgi
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,prochnica gleboka
+0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,prochnica srednia
+0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,prochnica gleboka
+1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,prochnica gleboka
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,nieodwracalne zapalenie miazgi zeba
+0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,martwica miazgi
+0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ropien podsluzowkowy
+0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,odwracalne zapalenie miazgi zeba
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,martwica miazgi
+0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,prochnica srednia
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,nieodwracalne zapalenie miazgi zeba
+0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0,paradontoza
+1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,zgorzel miazgi
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,ropien podsluzowkowy
+0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0,paradontoza
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ropien podsluzowkowy
+0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,zgorzel miazgi
+1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,ropien okolowierzcholkowy
+0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,paradontoza
+0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,paradontoza
+0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,zgorzel miazgi
+1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,zgorzel miazgi
+1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,zgorzel miazgi
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,nieodwracalne zapalenie miazgi zeba
+1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,prochnica srednia
+0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,prochnica gleboka
+0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,prochnica gleboka
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,odwracalne zapalenie miazgi zeba
+0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,paradontoza
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,nieodwracalne zapalenie miazgi zeba
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,odwracalne zapalenie miazgi zeba
+0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica srednia
+0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,zgorzel miazgi
+0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,paradontoza
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,martwica miazgi
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica srednia
+0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ropien podsluzowkowy
+0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,ropien podsluzowkowy
+0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,paradontoza
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,odwracalne zapalenie miazgi zeba
+1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,zgorzel miazgi
+0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,prochnica gleboka
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,nieodwracalne zapalenie miazgi zeba
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica powierzchniowa
+1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,zgorzel miazgi
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,odwracalne zapalenie miazgi zeba
+0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,prochnica gleboka
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,zgorzel miazgi
+0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,paradontoza
+0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,odwracalne zapalenie miazgi zeba
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,nieodwracalne zapalenie miazgi zeba
+0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,odwracalne zapalenie miazgi zeba
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,zgorzel miazgi
+0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ropien podsluzowkowy
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica srednia
+0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,prochnica srednia
+0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,paradontoza
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,paradontoza
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica powierzchniowa
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,zgorzel miazgi
+0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,ropien okolowierzcholkowy
+0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,prochnica gleboka
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,odwracalne zapalenie miazgi zeba
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,zgorzel miazgi
+0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,paradontoza
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,prochnica powierzchniowa
+0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,ropien podsluzowkowy
+1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,prochnica gleboka
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica powierzchniowa
+0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,paradontoza
+0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,prochnica powierzchniowa
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,odwracalne zapalenie miazgi zeba
+0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,odwracalne zapalenie miazgi zeba
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,paradontoza
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica srednia
+0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,prochnica srednia
+0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,ropien okolowierzcholkowy
+0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ropien podsluzowkowy
+1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,zgorzel miazgi
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,odwracalne zapalenie miazgi zeba
+0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,prochnica srednia
+0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,prochnica gleboka
+0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,martwica miazgi
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica srednia
+0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,paradontoza
+0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,zgorzel miazgi
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,prochnica srednia
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,zgorzel miazgi
+0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,prochnica srednia
+1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,zgorzel miazgi
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ropien podsluzowkowy
+0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ropien podsluzowkowy
+1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,zgorzel miazgi
+0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,paradontoza
+0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,prochnica srednia
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,zgorzel miazgi
+0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,prochnica srednia
+0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,prochnica srednia
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,odwracalne zapalenie miazgi zeba
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,zgorzel miazgi
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,nieodwracalne zapalenie miazgi zeba
