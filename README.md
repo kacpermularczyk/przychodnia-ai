@@ -1,4 +1,4 @@
-# przychodnia-ai
+# Przychodnia-AI
 Aplikacja webowa wspomagająca zarządzanie przychodnią z wykorzystaniem modułu AI.
 
 
